@@ -18,6 +18,13 @@ Clone the repository
 
 # Step 1:
 
-git clone 
+git clone https://github.com/barkha2025/Quora_Duplicate_Question_Pair.git
+
+# Step 2:
+Create an virtual environment & activate on pycharm/conda
+
+
+
+
 
 
