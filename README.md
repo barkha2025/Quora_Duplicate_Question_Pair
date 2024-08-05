@@ -4,6 +4,9 @@ This repository contains a Duplicate Question Pairs Classifier Webapp in python 
 This Classifier is designed to identify whether given question pairs are duplicate or not.It helps to improve user experience in Social Networking site.
 This directory contains Quora duplicate question pairs data for training and testing the classifier.
 
+Dataset link::
+https://www.kaggle.com/competitions/quora-question-pairs/data?select=train.csv.zip
+
 
 
 
