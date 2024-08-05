@@ -23,6 +23,18 @@ git clone https://github.com/barkha2025/Quora_Duplicate_Question_Pair.git
 # Step 2:
 Create an virtual environment & activate on pycharm/conda
 
+version_info = 3.11.9.final.0
+virtualenv = 20.24.5
+
+# Step 3:
+
+Install the requirments
+
+pip install -r requirments.txt
+
+
+# Step 4:
+Run the url at Streamlit app !
 
 
 
