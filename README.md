@@ -1,7 +1,7 @@
 
 This repository contains a Duplicate Question Pairs Classifier Webapp in python using Natural Language Processing (Bag of Words with preprocessing and Advanced feature Engineering).
 
-This Classifier is designed to identify whether given question pairs are duplicate or not.It helps to improve user experience in Social Networking site.
+This Classifier is designed to identify whether given question pairs are duplicate or not.It helps to improve user experience on Social Networking sites.
 This directory contains Quora duplicate question pairs data for training and testing the classifier.
 
 Dataset link::
